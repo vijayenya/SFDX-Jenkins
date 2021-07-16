@@ -1,2 +1,1 @@
-# SFDX-Jenkins
-SFDX Jenkins Pipeline
+# SFDXProject
